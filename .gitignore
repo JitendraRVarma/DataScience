@@ -1,0 +1,16 @@
+
+*.pkl
+Credit_Risk_Modelling/LCDataDictionary.xlsx
+Credit_Risk_Modelling/LGD_EDA_Test_Clean.csv
+Credit_Risk_Modelling/LGD_EDA_Train_Clean.csv
+Credit_Risk_Modelling/loan_data_2007_2014.csv
+Credit_Risk_Modelling/loan_data_2015.csv
+Credit_Risk_Modelling/Processed_Eval.csv
+Credit_Risk_Modelling/Processed_Test.csv
+Credit_Risk_Modelling/Processed_Train.csv
+Credit_Risk_Modelling/score.csv
+Cross_Sell_Market_Basket_Analysis/.ipynb_checkpoints/Association_Rule_FP_Growth-Copy1-checkpoint.ipynb
+Cross_Sell_Market_Basket_Analysis/groceries.csv
+Time_Series_Analysis/.ipynb_checkpoints/Time_Series_Analysis-checkpoint.ipynb
+Time_Series_Analysis/Index2018.csv
+Time_Series_Analysis/Time_Series_Analysis.ipynb
