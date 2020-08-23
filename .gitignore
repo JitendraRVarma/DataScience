@@ -18,3 +18,8 @@ Tenssorflow_2.0_Tutorials/ratings.csv
 Tenssorflow_2.0_Tutorials/spam.csv
 *.zip
 *.jpg
+Hands_Machine_Learning_book_Tutorials/datasets/housing/housing.csv
+Hands_Machine_Learning_book_Tutorials/datasets/housing/housing.tgz
+Hands_Machine_Learning_book_Tutorials/iris_tree.dot
+Hands_Machine_Learning_book_Tutorials/iris_tree.png
+Hands_Machine_Learning_book_Tutorials/.ipynb_checkpoints/Chapter_2_Classification-Copy1-checkpoint.ipynb
