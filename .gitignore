@@ -122,3 +122,5 @@ Hackathon/AnalyticsVidya/LOG.csv
 Hackathon/AnalyticsVidya/sample_submission_eyYijxG.csv
 Hackathon/AnalyticsVidya/Sub_6.csv
 Pytorch_Tutorials/.ipynb_checkpoints/ANN_Classfication_MINIST-checkpoint.ipynb
+*.csv
+Hackathon/MachineHack/.ipynb_checkpoints/Submssion_v1-checkpoint.ipynb
